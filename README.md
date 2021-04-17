@@ -5,3 +5,10 @@
 - SUDO CODE - See certificate
 - CHALLENGES FACED - I enjoyed doing these tasks as I have enjoyed learning about network security
 - HOW I OVERCAME THIS CHALLENGE - I didn't feel like I had to overcome any challenges in this weeks labs. QUite happy about this!!
+
+- SESSION 3 - Cloud Security Alliance Cloud Controls Matrix Lab, Infrastructure as a service Lab, Platform as a Service Lab, Software as a service Lab, Compliance Legislation Regulation and Standards Lab
+- BRIEF - Read throught the information given and complete the tasks.
+- USING IMMERSIVE LABS
+- SUDO CODE - See certificate
+- CHALLENGES FACED - I enjoyed doing these tasks as I have enjoyed learning about network security
+- HOW I OVERCAME THIS CHALLENGE - I didn't feel like I had to overcome any challenges in this weeks labs. QUite happy about this!!
